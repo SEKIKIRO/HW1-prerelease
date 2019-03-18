@@ -42,4 +42,4 @@ test_median(0 SORTED)
 #   Examples:
 #     test_median(1 QUICK_SELECT)
 
-test_median(1 QUICK_SELECT)
+# test_median(1 QUICK_SELECT)
